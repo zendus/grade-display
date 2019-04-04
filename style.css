@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+
+.container{
+    background: green;
+    width: 800px;
+    margin: 10px auto;
+    padding: 20px;
+}
+
+#ke{
+    background: yellow;
+    color: blue;
+    padding: 10px;
+    display: block;
+    margin: 40px;
+    margin: 0px auto;   
+}
+#ko,#ka{
+    border-color: black;
+    background: pink;
+    display: block ;
+    margin: 20px auto; 
+}
